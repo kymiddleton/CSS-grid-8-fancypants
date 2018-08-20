@@ -1,0 +1,109 @@
+body {
+    background-color: #666;
+    height: 100vh;
+    font-family: 'EB Garamond', Helvetica, sans-serif;
+    color: black;
+}
+
+header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Sonsie One', cursive;
+    color: white;
+}
+
+h6 {
+    padding: 10px;
+}
+
+main {
+    display: grid;
+    height: 100%;
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: 1fr;
+    grid-gap: 5px;
+}
+
+.box {
+    display: grid;
+    height: 100%;
+    grid-row: span 1;
+    grid-column: span 1;
+    background-color: white;
+}
+
+.a {
+    background: url("lake.jpg");
+}
+
+.b {
+    background: url("empire.jpg");
+}
+   
+.c {
+    background: url("person.jpg");
+}
+
+.d {
+    background: url("tree.jpg");
+}
+
+.e {
+    background: url("geo.jpg");
+}
+
+.f {
+    background: url("sand.jpg");
+}
+
+.g {
+    background: url("bridge.jpg");
+}
+
+.h {
+    background: url("lens.jpg");
+}
+
+.image {
+    height: 150px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-top: 2px dotted black;
+}
+
+.five, .six, .seven, .eight {
+    display: none;
+}
+
+@media only screen and (min-width: 600px) {
+    main {
+        display: grid;
+        grid-template-rows: repeat(2, 1fr);
+        grid-template-columns: repeat(4, 1fr);
+        margin-top: 80px;
+        margin-bottom: 80px;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    .five, .six, .seven, .eight {
+        display: grid;
+    }
+
+    .image {
+        height: 320px; 
+    }
+}
