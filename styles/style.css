@@ -44,35 +44,35 @@ main {
 }
 
 .a {
-    background: url("lake.jpg");
+    background: url("../images/lake.jpg");
 }
 
 .b {
-    background: url("empire.jpg");
+    background: url("../images/empire.jpg");
 }
    
 .c {
-    background: url("person.jpg");
+    background: url("../images/person.jpg");
 }
 
 .d {
-    background: url("tree.jpg");
+    background: url("../images/tree.jpg");
 }
 
 .e {
-    background: url("geo.jpg");
+    background: url("../images/geo.jpg");
 }
 
 .f {
-    background: url("sand.jpg");
+    background: url("../images/sand.jpg");
 }
 
 .g {
-    background: url("bridge.jpg");
+    background: url("../images/bridge.jpg");
 }
 
 .h {
-    background: url("lens.jpg");
+    background: url("../images/lens.jpg");
 }
 
 .image {
