@@ -11,3 +11,27 @@ Mobile:
 Desktop:
 
 ![desktop](images/p1_desktop.png)
+
+
+
+
+![Homepage:]()
+
+![Project View:]()
+
+# Dependencies:
+
+
+# Getting Started
+
+
+# Deployment
+
+
+# Code Structure
+
+
+# Authors
+
+
+# Acknowledgements
