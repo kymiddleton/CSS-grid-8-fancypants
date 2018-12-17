@@ -1,37 +1,15 @@
-# Instructions
+# CSS Grid
 
-> Today is going to be a different kind of class, so prepare yourself. Traditional education often involves rote memorization and specific formulas, but that doesn't work when you're learning to be a developer. Today is about taking your first dip into the deep end of independent learning. You'll need to Google. You'll need to rely heavily on your teammates. You'll need to ask for help when you get stuck. But you can do this! Hard practice, though frustrating at times, is where the greatest learning takes place!
+A web development activity that requires independent learning.  Build upon existing knowledge of CSS grids and utilize Google and or collaborate with classmates to work through blocks.  
 
+Working from scratch, build the design layouts below: 
+ 
 Working from scratch, build the layouts below:
 
 Mobile:
 
-![mobile](images/p1_mobile.png)
+![mobile](sample/p1_mobile.png)
 
 Desktop:
 
-![desktop](images/p1_desktop.png)
-
-
-
-
-![Homepage:]()
-
-![Project View:]()
-
-# Dependencies:
-
-
-# Getting Started
-
-
-# Deployment
-
-
-# Code Structure
-
-
-# Authors
-
-
-# Acknowledgements
+![desktop](sample/p1_desktop.png)
